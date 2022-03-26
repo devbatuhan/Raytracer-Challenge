@@ -1,5 +1,5 @@
 # Raytracer-Challenge
-Ray Tracer in C#
+Ray Tracer in .NET and C#
 
 Expected Outcomes:
 Getting better at Computer Graphics,
