@@ -6,7 +6,7 @@ namespace RaytracerChallenge
     {
         private static void Main()
         {
-            Console.WriteLine("Works");
+            
         }
     }
 }
