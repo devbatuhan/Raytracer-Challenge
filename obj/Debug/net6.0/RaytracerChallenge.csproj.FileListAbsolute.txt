@@ -1,0 +1,15 @@
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\bin\Debug\net6.0\RaytracerChallenge.exe
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\bin\Debug\net6.0\RaytracerChallenge.deps.json
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\bin\Debug\net6.0\RaytracerChallenge.runtimeconfig.json
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\bin\Debug\net6.0\RaytracerChallenge.dll
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\bin\Debug\net6.0\RaytracerChallenge.pdb
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.csproj.AssemblyReference.cache
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.AssemblyInfoInputs.cache
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.AssemblyInfo.cs
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.csproj.CoreCompileInputs.cache
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.dll
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\ref\RaytracerChallenge.dll
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.pdb
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\RaytracerChallenge.genruntimeconfig.cache
+C:\Users\wordp\Desktop\PersonalProjects\RaytracerChallenge\RaytracerChallenge\obj\Debug\net6.0\refint\RaytracerChallenge.dll
